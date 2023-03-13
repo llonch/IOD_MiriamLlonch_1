@@ -11,6 +11,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 372ca0a22d4e72b4c93f97b66dfd58bb, type: 2}
+    - target: {fileID: 1424738527340975704, guid: 34e899fe2e485024f8d0a4fdf49fe350, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 99a3402306c6b5a41a4968fb50c2242a, type: 2}
     - target: {fileID: 3981072357827302562, guid: 34e899fe2e485024f8d0a4fdf49fe350, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -65,7 +69,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4665675601008792535, guid: 34e899fe2e485024f8d0a4fdf49fe350, type: 3}
       propertyPath: m_Name
-      value: Horse
+      value: Horse_Gray
       objectReference: {fileID: 0}
     - target: {fileID: 5052809757829177308, guid: 34e899fe2e485024f8d0a4fdf49fe350, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -75,6 +79,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 372ca0a22d4e72b4c93f97b66dfd58bb, type: 2}
+    - target: {fileID: 8186032669241230466, guid: 34e899fe2e485024f8d0a4fdf49fe350, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 99a3402306c6b5a41a4968fb50c2242a, type: 2}
     - target: {fileID: 8736670366054404626, guid: 34e899fe2e485024f8d0a4fdf49fe350, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
